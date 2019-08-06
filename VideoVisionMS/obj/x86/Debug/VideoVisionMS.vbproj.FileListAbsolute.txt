@@ -1,0 +1,160 @@
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Login.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Resources.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbproj.GenerateResource.Cache
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.pdb
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.xml
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.MDI.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.AboutUs.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.NewAdmin.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbprojResolveAssemblyReference.cache
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerNewEntry.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerRecords.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.EmployeeDetails.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.PackagesList.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerBill.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.ALLBILLS.resources
+F:\Sajid\edu\project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerDatabase.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.pdb
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.xml
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbprojResolveAssemblyReference.cache
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.AboutUs.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.ALLBILLS.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerBill.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerNewEntry.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerRecords.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerDatabase.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.EmployeeDetails.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Login.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.MDI.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Resources.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.NewAdmin.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.PackagesList.resources
+F:\Sajid\edu\My Prroject\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbproj.GenerateResource.Cache
+H:\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
+H:\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe
+H:\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.pdb
+H:\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.xml
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.AboutUs.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.ALLBILLS.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerBill.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerNewEntry.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerRecords.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerDatabase.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.EmployeeDetails.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Login.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.MDI.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Resources.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.NewAdmin.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.PackagesList.resources
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbprojResolveAssemblyReference.cache
+H:\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbproj.GenerateResource.Cache
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.pdb
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.xml
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbprojResolveAssemblyReference.cache
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.AboutUs.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.ALLBILLS.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerBill.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerNewEntry.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerRecords.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerDatabase.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.EmployeeDetails.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Login.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.MDI.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Resources.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.NewAdmin.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.PackagesList.resources
+E:\MY_PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbproj.GenerateResource.Cache
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.pdb
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.xml
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbprojResolveAssemblyReference.cache
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.AboutUs.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.ALLBILLS.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerBill.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerNewEntry.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerRecords.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerDatabase.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.EmployeeDetails.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Login.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.MDI.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Resources.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.NewAdmin.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.PackagesList.resources
+D:\pjct\projects\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbproj.GenerateResource.Cache
+C:\running project with bb\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+C:\running project with bb\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+C:\running project with bb\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+C:\running project with bb\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
+C:\SAURABH'S PROJECT\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+C:\SAURABH'S PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+C:\SAURABH'S PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+C:\SAURABH'S PROJECT\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
+E:\project\running project\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
+E:\project\running project\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe
+E:\project\running project\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.pdb
+E:\project\running project\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.xml
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbprojResolveAssemblyReference.cache
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.AboutUs.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.ALLBILLS.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerBill.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerNewEntry.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerRecords.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerDatabase.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.EmployeeDetails.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Login.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.MDI.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Resources.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.NewAdmin.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.PackagesList.resources
+E:\project\running project\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.vbproj.GenerateResource.Cache
+E:\New folder\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
+E:\New folder\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe
+E:\New folder\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.pdb
+E:\New folder\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.xml
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.AboutUs.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.ALLBILLS.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerBill.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerNewEntry.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerRecords.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.CustomerDatabase.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.EmployeeDetails.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Login.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.MDI.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.Resources.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.NewAdmin.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.PackagesList.resources
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\wasim\spfilw\New folder\VideoVisionMS\VideoVisionMS\bin\Debug\VideoVisionMS.exe.config
+D:\wasim\spfilw\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.exe
+D:\wasim\spfilw\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.xml
+D:\wasim\spfilw\New folder\VideoVisionMS\VideoVisionMS\obj\x86\Debug\VideoVisionMS.pdb
